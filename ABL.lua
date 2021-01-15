@@ -1,6 +1,6 @@
 --[[
 Guide : 
-recommended using inf yield and enable - noclip + fly 
+- recommended using inf yield and enable - noclip + fly 
 - make sure to set a distance before enabling it recommended to set the distance to 10
 - there's only kill aura 
 --]]
